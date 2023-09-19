@@ -1,5 +1,0 @@
-Name;AptNumber;StartDate;EndDate;StartWeek;EndWeek;Duration;DurationWeek;Lt;Ln
-fperucca@imstechnologies.com;SA-2206;2023-02-02T06:30:00.000+0000;2023-02-02T17:30:00.000+0000;5;5;1.0;1;46.2;15,0
-fperucca@imstechnologies.com;SA-2256;2023-02-13T07:00:00.000+0000;2023-02-13T14:30:00.000+0000;7;7;90.0;9;45.0;9,7
-fperucca@imstechnologies.com;SA-2256;2023-02-13T07:00:00.000+0000;2023-02-13T14:30:00.000+0000;7;7;900.0;9;20.0;9,7
-fperucca@imstechnologies.com;SA-2256;2023-02-13T07:00:00.000+0000;2023-02-13T14:30:00.000+0000;7;7;590.0;9;10.0;20,8
